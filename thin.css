@@ -1,0 +1,9 @@
+@import 
+url('https://fonts.googleapis.com/css?family=Montserrat+Alternates|Neucha&display=swap');
+
+* {
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+.main__title {
+	font-family: 'Neucha', cursive;
+}
