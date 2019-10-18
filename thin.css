@@ -1,6 +1,9 @@
+@import 
+url('https://fonts.googleapis.com/css?family=Montserrat+Alternates|Neucha&display=swap');
+
 * {
-	font-family: Arial, sans-serif;
+	font-family: 'Montserrat Alternates', sans-serif;
 }
 .main__title {
-	font-family: 'Comic Sans', cursive;
+	font-family: 'Neucha', cursive;
 }
